@@ -1,3 +1,17 @@
+# SEARCH FOR STRING BEGINNING AT FIRST OCCURRENCE
+-Press / to enter command mode.
+-Type the string you want to search for.
+-Press Enter.
+-Navigate to subsequent occurrences using n to move forward or N to move backward
+
+# SEARCH FOR STRING BEGINNING AT LAST OCCURRENCE
+-Press ? to enter command mode.
+-Follow same subsequent steps as above.
+
+# UN-HIGHLIGHT SEARCH RESULTS
+-While in normal mode, press : to enter command-line mode.
+-Type noh and press Enter.
+
 # BLOCK COMMENTS
 -First, go to the first line you want to comment, press Ctrl+V. This will put the editor in the VISUAL BLOCK mode.
 -Then use the arrow keys or J/K and select up to the last line.
